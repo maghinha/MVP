@@ -118,8 +118,10 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dados carregados para o PBI 4](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%204.png?raw=true)
 
-![Dados carregados para o PBI 5](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%205%20(UNION%20ALL).png?
-raw=true)
+### Como os dados das tabelas possuem as mesmas colunas, foram "acrescentadas" as tabelas no power query, uma a outra para facilitar posteriormente a visualização interativa no dashboard. 
+### *Essa ação equivale ao "UNION ALL" no SQL.*
+
+![Dados carregados para o PBI 5](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%205%20(UNION%20ALL).png?raw=true)
 
 #### Dados Apple:
 
