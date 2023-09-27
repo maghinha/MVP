@@ -1,4 +1,4 @@
-**OBJETIVO**
+# **OBJETIVO**
 
 
   A partir de dados de duas das maiores empresas do mundo, analisar os seguintes questionamentos: 
@@ -11,7 +11,7 @@
 6. Qual a **ocorrência (percentual) de dias** positivos, negativos e neutros das ações até o fim de 2022?
 7. Qual a **maior valorização (percentual)** das ações durante o ano (1º dia até o último dia do ano)?
 
-**DETALHAMENTO**
+# **DETALHAMENTO**
 
 
 *Busca pelos dados*
@@ -22,12 +22,14 @@ https://www.kaggle.com/datasets/guillemservera/amzn-stock-data?select=amzn_split
 APPLE:
 https://www.kaggle.com/datasets/guillemservera/aapl-stock-data?select=aapl_split_adjusted.csv
 
-**COLETA**
+# **COLETA**
+
 Download de dados para o desktop e posteriormente upload para a o storage/container criado no Azure, conforme indicações abaixo.  
 
-**MODELAGEM** 
+# **MODELAGEM** 
 
-CARGA 
+# **CARGA**
+
 O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas: 
 
 1.	Criação de datasets, realizando upload dos arquivos que se encontram no container.
@@ -46,7 +48,7 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 *Skin:*
 
 
-*Dataflow2:
+*Dataflow2:*
 
 
 *Dataflow1:*
