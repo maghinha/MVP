@@ -1,6 +1,5 @@
 # **OBJETIVO**
 
-
   A partir de dados de duas das maiores empresas do mundo, analisar os seguintes questionamentos: 
 
 1. Qual o **preço máximo** de cada ação, ano a ano, desde o seu IPO? 
