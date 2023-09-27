@@ -129,10 +129,10 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dados carregados para o PBI 5](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%205%20(UNION%20ALL).png?raw=true)
 
-#### Dados Apple:
+### Dados Apple:
 
 ![Dados Apple](https://github.com/maghinha/MVP/blob/main/Dados%20Apple.png?raw=true)
 
-#### Dados Amazon:
+### Dados Amazon:
 
 ![Dados Amazon](https://github.com/maghinha/MVP/blob/main/Dados%20Amazon.png?raw=true)
