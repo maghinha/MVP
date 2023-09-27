@@ -31,7 +31,7 @@ Download de dados para o desktop e posteriormente upload para a o storage/contai
 
 O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas: 
 
-1.	Criação de datasets, realizando upload dos arquivos que se encontram no container.
+### 1.	Criação de datasets, realizando upload dos arquivos que se encontram no container.
 ![Carga1-DataSet](https://github.com/maghinha/MVP/blob/main/Carga%201%20(Dataset).png?raw=true)
 
 ![Carga2-DataSet1](https://github.com/maghinha/MVP/blob/main/Carga%202%20(Dataset1).png?raw=true)
@@ -45,9 +45,9 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 ![Fluxo de dados 1]()
 
 
-2.	Criação dos dataflows (foi criado 1 para cada arquivo)
+### 2.	Criação dos dataflows (foi criado 1 para cada arquivo)
 
-## *Dataflow1:*
+#### *Dataflow1:*
 
 ![Dataflow2 (Primeirodtflow)](https://github.com/maghinha/MVP/blob/main/Dataflow%202%20(Primeiro%20Dataflow).png?raw=true)
 
@@ -66,7 +66,7 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dataflow5 (Primeiro Dataflow skin)](https://github.com/maghinha/MVP/blob/main/Dataflow%205%20(Primeiro%20Dataflow%20SKIN).png?raw=true)
 
-## *Dataflow2:*
+#### *Dataflow2:*
 
 ![Dataflow6 (Segundo Dataflow)](https://github.com/maghinha/MVP/blob/main/Dataflow%206%20(SEGUNDO%20Dataflow).png?raw=true)
 
@@ -84,19 +84,17 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dataflow10 (Segundo Dataflow SKIN)](https://github.com/maghinha/MVP/blob/main/Dataflow%2010%20(SEGUNDO%20Dataflow%20skin).png?raw=true)
 
-3.	Criação do pipeline para inserção dos dataflows 
-
-Inserção de Dataflows no pipeline
+### 3.	Criação do pipeline para inserção dos dataflows 
 
 ![PIPELINE 1 INSERÇÃO DATA FLOW](https://github.com/maghinha/MVP/blob/main/PIPELINE%201.png?raw=true)
 
 ![PIPELINE 2 INSERÇÃO DATA FLOW](https://github.com/maghinha/MVP/blob/main/PIPELINE%202%20(INSER%C3%87%C3%83O%20DATAFLOWS).png?raw=true)
 
-4. Dados já no Data Studio: 
+### 4. Utilização do Data Studio 
 
 ![Dados carregados para Data Studio](https://github.com/maghinha/MVP/blob/main/Dados%20Carregados%20para%20Data%20Studio.png?raw=true)
 
-5. Dados carregados para o Power BI, com conexão direta no banco:
+### 5. Dados carregados para o Power BI, com conexão direta no banco
 
 ![Dados carregados para o PBI ](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI.png?raw=true)
 
