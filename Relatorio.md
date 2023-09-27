@@ -56,6 +56,8 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dataflow3 (Primeir Dataflow SELECT)](https://github.com/maghinha/MVP/blob/main/Dataflow%203%20(Primeiro%20Dataflow%20SELECT).png?raw=true)
 
+![Dataflow3 (Primeir Dataflow SELECT2)](https://github.com/maghinha/MVP/blob/main/DataFlow1%20(Select%202).png?raw=true)
+
 
 #### *Join:*
 
