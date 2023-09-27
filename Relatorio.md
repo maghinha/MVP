@@ -129,6 +129,16 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dados carregados para o PBI 5](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%205%20(UNION%20ALL).png?raw=true)
 
+# **ANÁLISE**
+
+1. Qual o **preço máximo** de cada ação, ano a ano, desde o seu IPO? 
+2. Qual a **máxima variação (percentual) positiva** diária da ação até o ano de 2022?
+3. Qual a **máxima variação (percentual) negativa** diária da ação até o ano de 2022?
+4. Qual a **valorização (percentual)** da ação desde o seu IPO na bolsa até o fim de 2022?
+5. Quantos dólares uma pessoa que investiu $1000 na época, teria caso carregasse a ação até o fim de 2022?
+6. Qual a **ocorrência (percentual) de dias** positivos, negativos e neutros das ações até o fim de 2022?
+7. Qual a **maior valorização (percentual)** das ações durante o ano (1º dia até o último dia do ano)?
+
 ### Dados Apple:
 
 ![Dados Apple](https://github.com/maghinha/MVP/blob/main/Dados%20Apple.png?raw=true)
