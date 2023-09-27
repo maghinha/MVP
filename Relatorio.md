@@ -112,9 +112,15 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dados carregados para o PBI ](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI.png?raw=true)
 
+
+
 ![Dados carregados para o PBI 2](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%202.png?raw=true)
 
+
+
 ![Dados carregados para o PBI 3](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%203.png?raw=true)
+
+
 
 ![Dados carregados para o PBI 4](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%204.png?raw=true)
 
