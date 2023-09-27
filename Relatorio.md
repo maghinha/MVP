@@ -55,11 +55,6 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Coleta1](https://github.com/maghinha/MVP/blob/main/Coleta%202%20(Storage).png?raw=true)
 
-![Coleta2]()
-
-![Fluxo de dados 1]()
-
-
 ### 2.	Criação dos dataflows (foi criado 1 para cada arquivo)
 
 #### *Dataflow1:*
