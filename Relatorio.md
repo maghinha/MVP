@@ -32,8 +32,22 @@ Download de dados para o desktop e posteriormente upload para a o storage/contai
 O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas: 
 
 1.	Criação de datasets, realizando upload dos arquivos que se encontram no container.
+![Carga1-DataSet](https://github.com/maghinha/MVP/blob/main/Carga%201%20(Dataset).png?raw=true)
 
-2.	Criação dos dataflows (foi criado 1 para cada arquivo)
+![Carga2-DataSet1](https://github.com/maghinha/MVP/blob/main/Carga%202%20(Dataset1).png?raw=true)
+
+![Carga2-DataSet2](https://github.com/maghinha/MVP/blob/main/Carga%202%20(Dataset2).png?raw=true)
+
+![Coleta1](https://github.com/maghinha/MVP/blob/main/Carga%202%20(Dataset2).png?raw=true)
+
+![Coleta2](https://github.com/maghinha/MVP/blob/main/Carga%202%20(Dataset2).png?raw=true)
+
+![Dados Amazon](https://github.com/maghinha/MVP/blob/main/Carga%202%20(Dataset2).png?raw=true)
+
+![Dados Apple](https://github.com/maghinha/MVP/blob/main/Carga%202%20(Dataset2).png?raw=true)
+
+![Dados carregados para Data Studio](https://github.com/maghinha/MVP/blob/main/Carga%202%20(Dataset2).png?raw=true)
+
 
 *Dataflow1:*
 
