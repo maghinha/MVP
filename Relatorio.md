@@ -27,6 +27,18 @@ Download de dados para o desktop e posteriormente upload para a o storage/contai
 
 # **MODELAGEM** 
 
+#### *Amazon:*
+
+![Dataflow3 (Primeir Dataflow SELECT)](https://github.com/maghinha/MVP/blob/main/Dataflow%203%20(Primeiro%20Dataflow%20SELECT).png?raw=true)
+
+![Dataflow3 (Primeir Dataflow SELECT2)](https://github.com/maghinha/MVP/blob/main/DataFlow1%20(Select%202).png?raw=true)
+
+#### *Apple:*
+
+![Dataflow7 (Segundo Dataflow SELECT)](https://github.com/maghinha/MVP/blob/main/Dataflow%207%20(SEGUNDO%20Dataflow%20SELECT).png?raw=true)
+
+![Dataflow8 (Segundo Dataflow SELECT2)](https://github.com/maghinha/MVP/blob/main/Dataflow%208%20(SEGUNDO%20Dataflow%20SELECT2).png?raw=true)
+
 # **CARGA**
 
 O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas: 
