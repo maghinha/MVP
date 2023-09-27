@@ -45,7 +45,9 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 ![Fluxo de dados 1]()
 
 
-*Dataflow1:*
+2.	Criação dos dataflows (foi criado 1 para cada arquivo)
+
+## *Dataflow1:*
 
 ![Dataflow2 (Primeirodtflow)](https://github.com/maghinha/MVP/blob/main/Dataflow%202%20(Primeiro%20Dataflow).png?raw=true)
 
@@ -64,7 +66,7 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dataflow5 (Primeiro Dataflow skin)](https://github.com/maghinha/MVP/blob/main/Dataflow%205%20(Primeiro%20Dataflow%20SKIN).png?raw=true)
 
-*Dataflow2:*
+## *Dataflow2:*
 
 ![Dataflow6 (Segundo Dataflow)](https://github.com/maghinha/MVP/blob/main/Dataflow%206%20(SEGUNDO%20Dataflow).png?raw=true)
 
@@ -82,7 +84,7 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dataflow10 (Segundo Dataflow SKIN)](https://github.com/maghinha/MVP/blob/main/Dataflow%2010%20(SEGUNDO%20Dataflow%20skin).png?raw=true)
 
-3.	Criação do pipeline para inserção dos dataflows
+3.	Criação do pipeline para inserção dos dataflows 
 
 Inserção de Dataflows no pipeline
 
@@ -90,11 +92,11 @@ Inserção de Dataflows no pipeline
 
 ![PIPELINE 2 INSERÇÃO DATA FLOW](https://github.com/maghinha/MVP/blob/main/PIPELINE%202%20(INSER%C3%87%C3%83O%20DATAFLOWS).png?raw=true)
 
-Dados carregados para o Data Studio: 
+4. Dados já no Data Studio: 
 
 ![Dados carregados para Data Studio](https://github.com/maghinha/MVP/blob/main/Dados%20Carregados%20para%20Data%20Studio.png?raw=true)
 
-Dados carregados para o Power BI, com conexão direta no banco:
+5. Dados carregados para o Power BI, com conexão direta no banco:
 
 ![Dados carregados para o PBI ](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI.png?raw=true)
 
