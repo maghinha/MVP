@@ -134,7 +134,7 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 # **ANÁLISE**
 
-1. Qual o **preço de fechamento** de cada ação, ano a ano, desde o seu IPO?
+## 1. Qual o **preço de fechamento** de cada ação, ano a ano, desde o seu IPO?
 
 ![image](https://github.com/maghinha/MVP/assets/145860948/c470dd04-3b78-4e7e-a48c-e1a5aca06594) 
 
@@ -142,45 +142,82 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 ![image](https://github.com/maghinha/MVP/assets/145860948/c0b28685-2d5c-4720-9fee-cbd04aae6da5)  
 
  
-3. Qual a **máxima variação (percentual) positiva** diária da ação até o ano de 2022?
+## 2. Qual a **máxima variação (percentual) positiva** diária da ação até o ano de 2022?
 
-**AMAZON:** 24,35%
+### **AMAZON:** 
 
-**APPLE:** 20,57%
+24,35%
 
+### **APPLE:** 
 
-5. Qual a **máxima variação (percentual) negativa** diária da ação até o ano de 2022?
-
-**AMAZON:** - 28,89%
-
-**APPLE:** - 19,23%
-
-7. Qual a **valorização (percentual)** da ação desde o seu IPO na bolsa até o fim de 2022?
-
-**AMAZON:** 68.908,9%
-
-**APPLE:** 101.270,5%
-
-9. Quantos dólares uma pessoa que investiu $1000 na época, teria caso carregasse a ação até o fim de 2022?
+20,57%
 
 
-10. Qual a **ocorrência (percentual) de dias** positivos, negativos e neutros das ações até o fim de 2022?
+## 3. Qual a **máxima variação (percentual) negativa** diária da ação até o ano de 2022?
+
+### **AMAZON:** 
+
+-28,89%
+
+### **APPLE:** 
+
+-19,23%
+
+## 4. Qual a **valorização (percentual)** da ação desde o seu IPO na bolsa até o fim de 2022?
+
+### **AMAZON:** 
+
+68.908,9%
+
+### **APPLE:** 
+
+101.270,5%
+
+## 5. Quantos dólares uma pessoa que investiu $1000 na época, teria caso carregasse a ação até o fim de 2022?
+
+
+## 6. Qual a **ocorrência (percentual) de dias** positivos, negativos e neutros das ações até o fim de 2022?
 
 **AMAZON**
+
+
+
 DIAS POSITIVOS: 49,62%
+
+
+
 DIAS NEGATIVOS: 49,87%
+
+
+
 DIAS NEUTROS: 0,51%
 
+
+
+
 **APPLE**
+
+
+
 DIAS POSITIVOS: 47,59%
+
+
+
 DIAS NEGATIVOS: 45,55%
+
+
+
 DIAS NEUTROS: 6,86%
 
-13. Qual a **maior valorização (percentual)** das ações durante o ano (1º dia até o último dia do ano)?
+## 7. Qual a **maior valorização (percentual)** das ações durante o ano (1º dia até o último dia do ano)?
 
 **AMAZON:** 
 
+970,8%
+
 **APPLE:** 
+
+200,3%
 
 ### Dados Apple:
 
