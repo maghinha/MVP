@@ -33,6 +33,9 @@ Download de dados para o desktop e posteriormente upload para a o storage/contai
 
 ![Dataflow3 (Primeir Dataflow SELECT2)](https://github.com/maghinha/MVP/blob/main/DataFlow1%20(Select%202).png?raw=true)
 
+
+
+
 #### *Apple:*
 
 ![Dataflow7 (Segundo Dataflow SELECT)](https://github.com/maghinha/MVP/blob/main/Dataflow%207%20(SEGUNDO%20Dataflow%20SELECT).png?raw=true)
