@@ -15,15 +15,15 @@
 
 *Busca pelos dados*
 
-AMAZON:
+**AMAZON:**
 https://www.kaggle.com/datasets/guillemservera/amzn-stock-data?select=amzn_split_adjusted.csv
 
-APPLE:
+**APPLE:**
 https://www.kaggle.com/datasets/guillemservera/aapl-stock-data?select=aapl_split_adjusted.csv
 
 # **COLETA**
 
-Download de dados para o desktop e posteriormente upload para a o storage/container criado no Azure, conforme indicações abaixo.  
+Download de dados para o desktop e posteriormente upload para a o storage/container criado no Azure. 
 
 # **MODELAGEM** 
 
@@ -52,17 +52,17 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 ![Dataflow2 (Primeirodtflow)](https://github.com/maghinha/MVP/blob/main/Dataflow%202%20(Primeiro%20Dataflow).png?raw=true)
 
 
-*Select:*
+#### *Select:*
 
 ![Dataflow3 (Primeir Dataflow SELECT)](https://github.com/maghinha/MVP/blob/main/Dataflow%203%20(Primeiro%20Dataflow%20SELECT).png?raw=true)
 
 
-*Join:*
+#### *Join:*
 
 ![Dataflow4 (Primeiro Dataflow Join)](https://github.com/maghinha/MVP/blob/main/Dataflow%204%20(Primeiro%20Dataflow%20JOIN).png?raw=true)
 
 
-*Skin:*
+#### *Skin:*
 
 ![Dataflow5 (Primeiro Dataflow skin)](https://github.com/maghinha/MVP/blob/main/Dataflow%205%20(Primeiro%20Dataflow%20SKIN).png?raw=true)
 
@@ -70,17 +70,17 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 ![Dataflow6 (Segundo Dataflow)](https://github.com/maghinha/MVP/blob/main/Dataflow%206%20(SEGUNDO%20Dataflow).png?raw=true)
 
-*Select:*
+#### *Select:*
 
 ![Dataflow7 (Segundo Dataflow SELECT)](https://github.com/maghinha/MVP/blob/main/Dataflow%207%20(SEGUNDO%20Dataflow%20SELECT).png?raw=true)
 
 ![Dataflow8 (Segundo Dataflow SELECT2)](https://github.com/maghinha/MVP/blob/main/Dataflow%208%20(SEGUNDO%20Dataflow%20SELECT2).png?raw=true)
 
-*Join:*
+#### *Join:*
 
 ![Dataflow9 (Segundo Dataflow JOIN)](https://github.com/maghinha/MVP/blob/main/Dataflow%209%20(SEGUNDO%20Dataflow%20JOIN).png?raw=true)
 
-*Skin:*
+#### *Skin:*
 
 ![Dataflow10 (Segundo Dataflow SKIN)](https://github.com/maghinha/MVP/blob/main/Dataflow%2010%20(SEGUNDO%20Dataflow%20skin).png?raw=true)
 
@@ -107,10 +107,10 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 ![Dados carregados para o PBI 5](https://github.com/maghinha/MVP/blob/main/Dados%20carregados%20para%20o%20PBI%205%20(UNION%20ALL).png?
 raw=true)
 
-Dados Apple:
+#### Dados Apple:
 
 ![Dados Apple](https://github.com/maghinha/MVP/blob/main/Dados%20Apple.png?raw=true)
 
-Dados Amazon:
+#### Dados Amazon:
 
 ![Dados Amazon](https://github.com/maghinha/MVP/blob/main/Dados%20Amazon.png?raw=true)
