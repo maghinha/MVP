@@ -5,8 +5,8 @@
 1. Qual o **preço de fechamento** de cada ação, ano a ano, desde o seu IPO? 
 2. Qual a **máxima variação (percentual) positiva** diária da ação até o ano de 2022?
 3. Qual a **máxima variação (percentual) negativa** diária da ação até o ano de 2022?
-4. Qual a **valorização (percentual)** da ação desde o seu IPO na bolsa até o fim de 2022?
-5. Quantos dólares uma pessoa que investiu $1000 na época, teria caso carregasse a ação até o fim de 2022?
+4. Qual a **valorização (percentual)** da ação desde o seu IPO (lançamento da ação na bolsa) até o fim de 2022?
+5. Quantos dólares uma pessoa que investiu $1000 no IPO (lançamento da ação na bolsa), teria caso carregasse a ação até o fim de 2022?
 6. Qual a **ocorrência (percentual) de dias** positivos, negativos e neutros das ações até o fim de 2022?
 7. Qual a **maior valorização (percentual)** das ações durante o ano (1º dia até o último dia do ano)?
 
@@ -158,7 +158,7 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 -19,23%
 
-## 4. Qual a **valorização (percentual)** da ação desde o seu IPO na bolsa até o fim de 2022?
+## 4. Qual a **valorização (percentual)** da ação desde o seu IPO (lançamento da ação na bolsa) até o fim de 2022?
 
 ### **AMAZON:** 
 
@@ -168,9 +168,11 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 101.270,5%
 
-## 5. Quantos dólares uma pessoa que investiu $1000 na época, teria caso carregasse a ação até o fim de 2022?
+## 5. Quantos dólares uma pessoa que investiu $1000 no IPO (lançamento da ação na bolsa), teria caso carregasse a ação até o fim de 2022?
+**Ações da APPLE:**  Levando em consideração que $1.000,00 poderia comprar aproximadamente 7.794 ações, essa pessoa teria aproximadamente $1.012.704,00. 
 
 
+**Ações da AMAZON:**  Levando em consideração que $1.000,00 poderia comprar aproximadamente 8.203 ações, essa pessoa teria aproximadamente $689.089,00. 
 ## 6. Qual a **ocorrência (percentual) de dias** positivos, negativos e neutros das ações até o fim de 2022?
 
 **AMAZON**
