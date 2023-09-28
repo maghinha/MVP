@@ -129,6 +129,16 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 # **ANÁLISE**
 
+### (A). Qualidade de dados
+
+Os dados já eram tratados, então não tive problemas significativos quanto a qualidade destes dados. Porém, não necessariamente existiam registro de todos os dias do ano para as ações (em ambas as tabelas), podendo ser inclusive uma possibilidade, o fato de o mercado não abrir em determinado dia. Como uma das perguntas a serem respondidas, eu precisaria do primeiro dia do ano de cada ano e do último dia também (para saber preço inicial da ação no ano e preço da ação no último dia do ano, por exemplo), foi necessário fazer um tratamento nas bases dentro do PowerBi para identificar quais foram os primeiros e últimos registros de data de cada ano durante o período em análise.
+Seguindo com o tratamento desta forma, foi possível encontrar as respostas que gostaria para o MVP.  
+
+Na coluna de "Date", conforme esperado, foram encontradas apenas informações de datas. 
+Na coluna de valores que foram utilizados na estruturação dos dados (preço de abertura, preço de fechamento, preço máximo, preço mínimo) não foram encontrados valores vazios, apenas números. 
+
+### (B). Solução do problema
+
 ## 1. Qual o **preço de fechamento** de cada ação, ano a ano, desde o seu IPO?
 
 ![image](https://github.com/maghinha/MVP/assets/145860948/c470dd04-3b78-4e7e-a48c-e1a5aca06594) 
@@ -223,3 +233,6 @@ DIAS NEUTROS: 6,86%
 ### Dados Amazon:
 
 ![Dados Amazon](https://github.com/maghinha/MVP/blob/main/Dados%20Amazon.png?raw=true)
+
+
+
