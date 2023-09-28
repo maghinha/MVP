@@ -226,6 +226,8 @@ DIAS NEUTROS: 6,86%
 
 200,3%
 
+Nota-se que ambas as ações entregaram/entregam retornos consistentes e relevantes aos seus investidores de longo prazo que não se desesperaram/desesperam em momentos de desvalorização da ação. Por outro lado, investidores impacientes podem não ter tido ganhos significantes, 
+Ambas possuem resultados semelhantes, como por exemplo: O preço máximo atingido (Apple: $182,63 e Amazon: $187,2).
 ### Dados Apple:
 
 ![Dados Apple](https://github.com/maghinha/MVP/blob/main/Dados%20Apple.png?raw=true)
