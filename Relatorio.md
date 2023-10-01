@@ -1,6 +1,6 @@
 # **OBJETIVO**
 
-  A partir de dados de duas das maiores empresas do mundo, analisar os seguintes questionamentos: 
+  A partir de dados de duas das maiores empresas do mundo (APPLE e AMAZON), analisar os seguintes questionamentos: 
 
 1. Qual o **preço de fechamento** de cada ação, ano a ano, desde o seu IPO? 
 2. Qual a **máxima variação (percentual) positiva** diária da ação até o ano de 2022?
