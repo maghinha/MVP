@@ -139,6 +139,8 @@ Na coluna de valores que foram utilizados na estruturação dos dados (preço de
 
 ### (B). Solução do problema
 
+*Todas as respostas se encontram no dashboard, conforme evidências. Nas perguntas, trarei a informação de forma mais objetiva*
+
 ## 1. Qual o **preço de fechamento** de cada ação, ano a ano, desde o seu IPO?
 
 ![image](https://github.com/maghinha/MVP/assets/145860948/c470dd04-3b78-4e7e-a48c-e1a5aca06594) 
