@@ -141,7 +141,7 @@ Na coluna de valores que foram utilizados na estruturação dos dados (preço de
 
 ### (B). Solução do problema
 
-*Todas as respostas se encontram no dashboard, conforme evidências. Nas perguntas, trarei a informação de forma mais objetiva*
+*Todas as respostas se encontram no dashboard, conforme evidências. Nas perguntas, trarei a informação de forma mais objetiva.*
 
 ## 1. Qual o **preço de fechamento** de cada ação, ano a ano, desde o seu IPO?
 
