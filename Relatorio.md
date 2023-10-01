@@ -133,8 +133,9 @@ O ETL foi realizado pelo Data Factory, com as seguintes etapas percorridas:
 
 Os dados já eram tratados, então não tive problemas significativos quanto a qualidade destes dados. Porém, não necessariamente existiam registro de todos os dias do ano para as ações (em ambas as tabelas), podendo ser inclusive uma possibilidade, o fato de o mercado não abrir em determinado dia. Como uma das perguntas a serem respondidas, eu precisaria do primeiro dia do ano de cada ano e do último dia também (para saber preço inicial da ação no ano e preço da ação no último dia do ano, por exemplo), foi necessário fazer um tratamento nas bases dentro do PowerBi para identificar quais foram os primeiros e últimos registros de data de cada ano durante o período em análise.
 Seguindo com o tratamento desta forma, foi possível encontrar as respostas que gostaria para o MVP.  
-No Ano mínimo esperado para análise seria o ano de 1980, ano início da APPLE na bolsa, e o ano máximo 2022. Conforme texto descritivo no dashboard, os dados são considerados apenas até o ano de 2022.
 
+
+O ano mínimo esperado para análise seria o ano de 1980, ano início da APPLE na bolsa, e o ano máximo 2022. Conforme texto descritivo no dashboard, os dados são considerados apenas até o ano de 2022.
 Na coluna de "Date", conforme esperado, foram encontradas apenas informações de datas. 
 Na coluna de valores que foram utilizados na estruturação dos dados (preço de abertura, preço de fechamento, preço máximo, preço mínimo) não foram encontrados valores vazios, apenas números. 
 
