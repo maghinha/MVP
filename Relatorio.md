@@ -137,7 +137,7 @@ Seguindo com o tratamento desta forma, foi possível encontrar as respostas que 
 
 O ano mínimo esperado para análise seria o ano de 1980, ano início da APPLE na bolsa, e o ano máximo 2022. Conforme texto descritivo no dashboard, os dados são considerados apenas até o ano de 2022.
 Na coluna de "Date", conforme esperado, foram encontradas apenas informações de datas. 
-Na coluna de valores que foram utilizados na estruturação dos dados (preço de abertura, preço de fechamento, preço máximo, preço mínimo) não foram encontrados valores vazios, apenas números. 
+Na coluna de valores que foram utilizados na estruturação dos dados (preço de abertura, preço de fechamento, preço máximo, preço mínimo) não foram encontrados valores nulos, apenas números. 
 
 ### (B). Solução do problema
 
