@@ -234,12 +234,12 @@ DIAS NEUTROS: 6,86%
 Nota-se que ambas as ações entregaram/entregam retornos consistentes e relevantes aos seus investidores de longo prazo, que não se desesperaram/desesperam em momentos de desvalorização da ação. Por outro lado, investidores impacientes podem não ter tido ganhos significantes, de modo que tenham vendido a ação em momentos de baixa do mercado.  Por mais que essas ações apresentem oscilações de preço, como demonstrado nos gráficos históricos, a valorização no longo prazo é uma realidade. 
 
 
-Ambas possuem preços máximos históricos parecidos, sendo **Apple: $182,63** vs **Amazon: $187,2.** 
+Ambas possuem preços máximos históricos parecidos, sendo **Apple:** **$182,63** vs **Amazon: $187,2.** 
 
 Historicamente, a ocorrência de **dias sem oscilação de preço das ações** da APPLE foram maiores, com forte influência no indicador, dos anos anteriores a 2000. *(6,86% x 0,51%)*
-Desconsiderando anos anteriores a 2000 da análise, as ações da APPLE ficariam **0,28%** contra **0,40%** da AMAZON, de dias sem oscilação de preço, demonstrando como em um passado mais recente as oscilações são mais parecidas.
+Desconsiderando anos anteriores a 2000 da análise, as ações da APPLE ficariam **0,28%** contra **0,40%** da AMAZON, de dias sem oscilação de preço, demonstrando que em um passado recente as oscilações são mais parecidas.
 
-Não foi encontrada uma correlação forte de desvalorização das ações durante o ano. Em outras palavras, em anos que a Apple teve um desvalorização em suas ações (preço de abertura da ação no ano menor que o  preço de fechamento da ação no ano), não necessariamente as ações da Amazon tiveram o mesmo comportamento e vice-versa.
+Quando comparadas, não foi encontrada uma correlação forte de desvalorização das ações durante o ano. Em outras palavras, anos que a Apple teve uma desvalorização em suas ações (preço de abertura da ação no ano menor que o preço de fechamento da ação no ano), não necessariamente as ações da Amazon tiveram o mesmo comportamento e vice-versa.
 
 *OBS: A análise de correlação dos preços, especificamente, foi feita a apenas partir do momento em que as duas ações estavam listadas simultaneamente na bolsa.*
 
