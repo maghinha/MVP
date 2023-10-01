@@ -194,9 +194,9 @@ Na coluna de valores que foram utilizados na estruturação dos dados (preço de
 
 Além da resposta no dashboard do PowerBi, com as medidas calculadas e transformações, também feito via SQL:
 
-![image](https://github.com/maghinha/MVP/assets/145860948/b43f048b-1595-444d-8a49-de1376df116b)
+![image](https://github.com/maghinha/MVP/blob/main/C%C3%B3digoSQL1.png)
 
-![image](https://github.com/maghinha/MVP/assets/145860948/470fb087-bd92-469e-bbc4-d36e2cc01129)
+![image](https://github.com/maghinha/MVP/blob/main/C%C3%B3digoSQL2.png)
 
 
 
@@ -263,13 +263,13 @@ Visualmente organizado em uma simples tabela:
 **Anos negativos APPLE:**
 
 
-![image](https://github.com/maghinha/MVP/assets/145860948/574cd502-8cd4-460e-b9bd-452b7d407429)
+![image](https://github.com/maghinha/MVP/blob/main/AnosNegativosAPPLE.png)
 
 
 **Anos negativos AMAZON:**
 
 
-![image](https://github.com/maghinha/MVP/assets/145860948/74e5f924-7561-40a4-97b4-e4b335b973c2)
+![image](https://github.com/maghinha/MVP/blob/main/AnosNegativosAMAZON.png)
 
 
 
