@@ -145,10 +145,10 @@ Na coluna de valores que foram utilizados na estruturação dos dados (preço de
 
 ## 1. Qual o **preço de fechamento** de cada ação, ano a ano, desde o seu IPO?
 
-![image](https://github.com/maghinha/MVP/assets/145860948/c470dd04-3b78-4e7e-a48c-e1a5aca06594) 
+![image](https://github.com/maghinha/MVP/blob/main/EvolucaoPreco_APPLE.png) 
 
 
-![image](https://github.com/maghinha/MVP/assets/145860948/c0b28685-2d5c-4720-9fee-cbd04aae6da5)  
+![image](https://github.com/maghinha/MVP/blob/main/EvolucaoPreco_Amazon.png)  
 
  
 ## 2. Qual a **máxima variação (percentual) positiva** diária da ação até o ano de 2022?
