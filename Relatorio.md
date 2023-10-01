@@ -273,6 +273,7 @@ Visualmente organizado em uma simples tabela:
 
 
 
+
 ### Dados Apple:
 
 ![Dados Apple](https://github.com/maghinha/MVP/blob/main/Dados%20Apple.png?raw=true)
