@@ -273,6 +273,8 @@ Visualmente organizado em uma simples tabela:
 
 
 
+*OBS: Não consegui subir um vídeo explicativo do Dashboard, portanto estarei anexando no envio do trabalho do portal, além do link abaixo.*
+(https://github.com/maghinha/MVP/blob/main/Dash_explica.xspf)
 
 ### Dados Apple:
 
