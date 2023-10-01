@@ -183,7 +183,18 @@ Na coluna de valores que foram utilizados na estruturação dos dados (preço de
 
 
 **Ações da AMAZON:**  Levando em consideração que $1.000,00 poderia comprar aproximadamente 8.203 ações, essa pessoa teria aproximadamente $689.089,00. 
+
+
+
 ## 6. Qual a **ocorrência (percentual) de dias** positivos, negativos e neutros das ações até o fim de 2022?
+
+Além da resposta no dashboard do PowerBi, com as medidas calculadas e transformações, também feito via SQL:
+
+![image](https://github.com/maghinha/MVP/assets/145860948/b43f048b-1595-444d-8a49-de1376df116b)
+
+![image](https://github.com/maghinha/MVP/assets/145860948/470fb087-bd92-469e-bbc4-d36e2cc01129)
+
+
 
 **AMAZON**
 
